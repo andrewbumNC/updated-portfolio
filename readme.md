@@ -1,13 +1,10 @@
 ## Updated Portfolio
 
-
-
-
 # Introduction: 
 The purpose of this is to highlight my developing knowledge and abilities as a developer. 
 
 # Content: 
-Under the my work section you will find four of my earliest projects as I learned how to code HTML, CSS and JS. 
+Under the my work section you will find four of my earliest projects that I completed as began learning html, css, and js.
 
 # Github:
 https://github.com/andrewbumNC/updated-portfolio
